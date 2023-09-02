@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: myapp_backend
+  name: myapp-backend
   labels:              
     name: backend
 spec:
