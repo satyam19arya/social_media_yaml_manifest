@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: backend
-        image: satyam19arya/social_media_backend:build-11
+        image: satyam19arya/social_media_backend:build-13
         ports:
         - containerPort: 4000
