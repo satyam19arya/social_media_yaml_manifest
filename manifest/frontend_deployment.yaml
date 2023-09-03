@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: satyam19arya/social_media_frontend:build-20
+        image: satyam19arya/social_media_frontend:build-22
         ports:
         - containerPort: 3000
