@@ -24,3 +24,7 @@ aws eks update-kubeconfig --name your-eks-cluster-name
 Once you've added your EKS cluster to Lens, you can use the Lens interface to manage and monitor your cluster, deploy applications, view logs, and perform other Kubernetes-related tasks.
 
 To install Lens - https://k8slens.dev/
+
+## Grafana dashboards
+<img width="960" alt="image" src="https://github.com/satyam19arya/social_media_yaml_manifest/assets/77580311/a0fd41e7-626d-4838-89ff-037376fa13be">
+
