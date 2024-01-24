@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: satyam19arya/social_media_backend:build-38
+        image: satyam19arya/social_media_backend:build-45
         ports:
         - containerPort: 4000
         livenessProbe:
