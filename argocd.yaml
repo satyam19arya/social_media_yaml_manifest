@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/satyam19arya/social_media_yaml_manifest.git
     targetRevision: HEAD
-    path: manifest
+    path: dev
   destination: 
     server: https://kubernetes.default.svc
     namespace: myapp
