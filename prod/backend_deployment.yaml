@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: myapp-backend
-  labels:              
+  labels:
     name: backend
 spec:
   strategy:
@@ -25,7 +25,9 @@ spec:
         ports:
         - containerPort: 4000
         resources:
-         limits:
-           cpu: 500m
-         requests:
-           cpu: 200m
+          limits:
+            cpu: 500m
+            memory: "256Mi" 
+          requests:
+            cpu: 200m
+            memory: "128Mi" 
