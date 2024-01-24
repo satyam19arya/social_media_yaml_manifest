@@ -5,6 +5,7 @@ metadata:
   labels:  
     name: frontend            
 spec:
+  replicas: 3
   strategy:
     type: RollingUpdate
     rollingUpdate:
@@ -24,10 +25,3 @@ spec:
         imagePullPolicy: Always
         ports:
         - containerPort: 3000
-        resources:
-          limits:
-            cpu: 500m
-            memory: "256Mi" 
-          requests:
-            cpu: 200m
-            memory: "128Mi" 
