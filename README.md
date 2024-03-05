@@ -33,3 +33,11 @@ To install Lens - https://k8slens.dev/
 
 <img width="585" alt="image" src="https://github.com/satyam19arya/social_media_yaml_manifest/assets/77580311/54d3b340-0cb0-4bd6-87e7-b33e85cf2eb9">
 
+## Dev Env
+<img width="832" alt="image" src="https://github.com/satyam19arya/social_media_yaml_manifest/assets/77580311/c30bc2eb-4aef-4e5f-bc5f-a8ddeb07d724">
+
+<img width="671" alt="image" src="https://github.com/satyam19arya/social_media_yaml_manifest/assets/77580311/1107131f-ec65-4d34-ab78-278e62f318a9">
+
+<img width="667" alt="image" src="https://github.com/satyam19arya/social_media_yaml_manifest/assets/77580311/8b6c66f0-6cdf-4982-97b7-498b6f475bfa">
+
+<img width="760" alt="image" src="https://github.com/satyam19arya/social_media_yaml_manifest/assets/77580311/2ac40436-f912-4bd9-b0ba-23fdbd3f8536">
