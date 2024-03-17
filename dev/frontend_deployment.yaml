@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: satyam19arya/social_media_frontend:build-67
+        image: satyam19arya/social_media_frontend:build-70
         imagePullPolicy: Always
         ports:
         - containerPort: 3000
