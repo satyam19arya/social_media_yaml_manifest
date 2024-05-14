@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: satyam19arya/social_media_backend:build-73
+        image: satyam19arya/social_media_backend:build-76
         imagePullPolicy: Always
         ports:
         - containerPort: 4000
